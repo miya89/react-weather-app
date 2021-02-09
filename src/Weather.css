@@ -1,0 +1,22 @@
+.Weather {
+  max-width: 500px;
+  border: 1px solid #bbbbbb;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+img {
+  padding-left: 10px;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.row {
+  margin: 20px 5px 5px 0;
+}
+
+.temperature {
+  padding: 10px;
+}
