@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-      <Weather defaultCity="Cape Town"/>
+      <Weather defaultCity="Ubud"/>
       <footer> <a href="https://github.com/miya89/react-weather-app" target="_blank">Open-source code</a> by Miya Peynova</footer>
     </div>
     </div>
