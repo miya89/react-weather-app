@@ -19,7 +19,7 @@ export default function Weather(props) {
     name: response.data.name,
     date: new Date(response.data.dt * 1000),
     wind: response.data.wind.speed,
-    iconUrl: "https://ssl.gstatic.com/onebox/weather/64/sunny_s_cloudy.png"
+    icon: response.data.weather[0.].icon
 
   });
 }

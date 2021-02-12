@@ -13,11 +13,9 @@
   padding-bottom: 0;
 }
 
-.Weather img {
-  padding-left: 10px;
+.Weather canvas {
+  padding: 5px 5px 5px 20px;
   margin: 0;
-  position: relative;
-  top: -28px;
 }
 
 .Weather form {
