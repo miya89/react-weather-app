@@ -5,4 +5,5 @@
 .WeatherInfo .right {
   position: relative;
   top: -10px;
+  left: 40px;
 }
