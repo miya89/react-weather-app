@@ -1,0 +1,6 @@
+.WeatherTemperature .temperature {
+  padding: 5px 0 0 5px;
+  font-size: 48px;
+  position: relative;
+  top: -14px;
+}
